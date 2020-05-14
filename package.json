@@ -1,0 +1,16 @@
+{
+  "name": "bucketbot",
+  "version": "1.0.0",
+  "description": "Discord bot for giving you a random link from a bucket",
+  "main": "index.js",
+  "repository": "https://github.com/ImUrX/bucketbot.git",
+  "author": "ImUrX <urielfontan2002@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/storage-blob": "^12.1.1",
+    "discord.js": "discordjs/discord.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}

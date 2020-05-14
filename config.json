@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "fetchEvery": 900000,
+    "nsfw": false,
+    "cooldown": 10
+}
